@@ -9,4 +9,6 @@ function substract(a, b) {
 }
 
 // (x: number, y: number) -> number
-const mutiply = (a, b) => a * b;
+function mutiply(a, b) {
+  return a * b;
+}
